@@ -2,7 +2,7 @@
 
 A simple chat app using python sockets.
 
-How to run the app: 
+# How to run the app: 
 
 Firstly run server.py file with "python server.py"
 Secondly run client.py with "python client.py" 
